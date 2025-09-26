@@ -1,5 +1,5 @@
 type Todo  = {
-    Id:number,
+    Id:string,
     Title:string,
     Completed:boolean
     Date:Date
